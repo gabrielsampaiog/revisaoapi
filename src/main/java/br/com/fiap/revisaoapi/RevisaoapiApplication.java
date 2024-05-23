@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@OpenAPIDefinition(info = @Info(title = "revisaoapi com swagger e openapi", version = "0.0.1", description = "API desenvolvida para revisão da turma 2TDSPM"))
+@OpenAPIDefinition(info = @Info(title = "checkpoint 3 java advanced", version = "0.0.1", description = "Fork de API desenvolvida para checkpoint 3 de java advanced"))
 public class RevisaoapiApplication {
 
     public static void main(String[] args) {
